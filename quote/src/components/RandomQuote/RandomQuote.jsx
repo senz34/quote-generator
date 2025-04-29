@@ -4,7 +4,6 @@ import "./RandomQuote.css";
 
 function App() {
   const [quote, setQuote] = useState({
-    quote: "",
     text: "Hayatta en hakiki mürşit ilimdir.",
     author: "Mustafa Kemal Atatürk",
   });
